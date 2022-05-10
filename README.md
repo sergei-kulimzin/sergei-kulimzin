@@ -2,7 +2,9 @@
   <img src="https://i.postimg.cc/LXRf6bxZ/photo-2022-05-10-12-55-58.jpg" width="500" alt="kulimzin" />
 </div>
 <div align="center">
-  <img src="https://www.codewars.com/users/kulimzin.sergei/badges/large?theme=light" alt="codewars badge" />
+  <a href="https://www.codewars.com/users/kulimzin.sergei">
+   <img src="https://www.codewars.com/users/kulimzin.sergei/badges/large?theme=light" alt="codewars badge" />
+  </a>
 </div>
 <br />
 <div align="center">
